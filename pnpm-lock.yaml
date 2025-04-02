@@ -1469,7 +1469,7 @@ packages:
         optional: true
 
   vite-plugin-vuetify@file:vite-plugin-vuetify-2.1.0.tgz:
-    resolution: {integrity: sha512-Rjesb6b+NsT4fxFZAfAJea4+UEXwm9H6WbF7kxLvGK3dwez9dWQYfqFUH1U3xFIU+HovMJyM3STA2G55+G06Nw==, tarball: file:vite-plugin-vuetify-2.1.0.tgz}
+    resolution: {integrity: sha512-K+ghCC5WbxtvkmMCD5qfHI2ohxNWh1LabPZ+EkM6ooUExtmq8YxG6Rmo/JknNNbWxCzSlt0Yj8FpHQbICNnllg==, tarball: file:vite-plugin-vuetify-2.1.0.tgz}
     version: 2.1.0
     engines: {node: ^18.0.0 || >=20.0.0}
     peerDependencies:
